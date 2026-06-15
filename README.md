@@ -1,3 +1,9 @@
+## important links:
+
+[source repo](https://github.com/FullstackAcademy/pop-quiz.git)
+
+---
+
 # Pop Quiz
 
 Hope you're ready for a JavaScript pop quiz! There's a catch: you have to build it!
